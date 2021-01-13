@@ -34,4 +34,4 @@ then
     printf "\n\nUpgrade Completed " >&2
 else
     printf "\n\nError Occured " >&2
-if
+fi
